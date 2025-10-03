@@ -19,5 +19,4 @@ const myFunction = function() {  // function
 }
 console.log(typeof myFunction); // function
 console.log(myFunction); // [Function: myFunction]
-
-
+myFunction(); // hello world
